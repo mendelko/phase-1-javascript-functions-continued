@@ -12,4 +12,4 @@ function wrapAdjective(highlight="*"){
   }
 }
 
-const encouragingPromptFunction = wrapAdjective()()
+// const encouragingPromptFunction = wrapAdjective()()
